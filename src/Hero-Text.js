@@ -3,7 +3,7 @@ import "./App.css";
 function HeroText() {
   return (
     <div>
-      <h1 class="swati">Hey this is sample</h1>
+      <h1 class="swati">Hey this is sample new </h1>
     </div>
   );
 }
